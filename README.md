@@ -101,3 +101,12 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 ### 01 - Builtins como Enumerated, range e desempacotamento Automático de Tuplas
 * Gerar listas com índices.
 * Usar desempacotamento nas listas.
+
+## 06 - Ordem Natural &#x1F516;
+* Utilizar a função **sorted** para fazer a ordenação sem mudar o conteúdo na lista original.
+* Usar a função **sort** para ordenar atribuindo e mudando a lista original.
+* Utilizar a função **reversed** que ordena do maior para o menor sem alterar a lista original.
+
+### 01 - Ordenação Básica
+* Usar o `sorted()` para ordenar uma lista.
+* Usar o `sorted(reverse=?)` para ordenar uma lista de forma decrescente ou não.
