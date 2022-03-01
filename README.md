@@ -11,7 +11,7 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 ![Python Collections Parte 1 - Listas e Tuplas](https://www.alura.com.br/assets/api/share/curso-python-collections-listas-e-tuplas.png)
 
 ## Links Úteis &#x1F517;
-*
+* [NumPy](https://numpy.org/) - Site para uma biblioteca de conjuntos.
 
 ## Siglas &#x1F5FA;
 *
@@ -67,3 +67,18 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 
 ### 03 - Tupla de Objetos e Lista de Tuplas
 * Diferenças entre as 2 abordagens.
+
+## 03 - Polimorfismo e Arrays &#x1F516;
+* Conceito de herança e polimorfismo.
+* Herdar classe.
+* O que é o duck typing.
+* Fazer um array no Python.
+* Fazer anotações.
+
+### 01 - Listas e Polimorfismo
+* Usando polimorfismo nos elementos das listas.
+
+### 02 - Arrays e Numpy
+* Usando a classe `array`.
+
+### 03 - Método Abstrato
