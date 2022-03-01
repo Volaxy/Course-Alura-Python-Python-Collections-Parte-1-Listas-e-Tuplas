@@ -82,3 +82,12 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 * Usando a classe `array`.
 
 ### 03 - Método Abstrato
+* Deixar a classe `Account` abstrata.
+
+## 04 - Igualdade &#x1F516;
+* Utilizar o `__eq__`.
+* Utilizar boas práticas para comparação .
+* Usar o `isinstance` para verificar se uma instância de um objeto.
+
+### 01 - Igualdade e o `__eq__`
+* Verificar igualdade com um objeto do tipo `SalaryAccount`.
