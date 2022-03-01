@@ -91,3 +91,13 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 
 ### 01 - Igualdade e o `__eq__`
 * Verificar igualdade com um objeto do tipo `SalaryAccount`.
+
+## 05 - Outros Builtins &#x1F516;
+* O que são `enumerated`.
+* Como funciona a função `range`.
+* Desempacotar tuplas.
+* Utilizar a função `len`.
+
+### 01 - Builtins como Enumerated, range e desempacotamento Automático de Tuplas
+* Gerar listas com índices.
+* Usar desempacotamento nas listas.
