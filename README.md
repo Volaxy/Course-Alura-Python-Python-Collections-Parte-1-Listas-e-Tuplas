@@ -49,3 +49,21 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 
 ### 03 - Problemas da Mutabilidade da Lista
 * Deixar valores padrão para uma função para evitar o problema da mutabilidade.
+
+## 02 - Tuplas &#x1F516;
+* Criar uma classe e métodos.
+* Criar uma lista de referência para objetos.
+* Lidar com referências.
+* O que é uma tupla.
+* Fazer tupla de listas.
+* Diferença entre programação orientada a objetos e funcional.
+* Fazer uma lista de tuplas.
+
+### 01- Listas com Objetos de Classes Nossas
+* Referências do mesmo objeto em uma lista.
+
+### 02 - Tuplas, Objetos e Anemia
+* Usar uma **tupla** com `()`.
+
+### 03 - Tupla de Objetos e Lista de Tuplas
+* Diferenças entre as 2 abordagens.
