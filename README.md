@@ -110,3 +110,15 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 ### 01 - Ordenação Básica
 * Usar o `sorted()` para ordenar uma lista.
 * Usar o `sorted(reverse=?)` para ordenar uma lista de forma decrescente ou não.
+
+## 07 - Ordenação Customizada &#x1F516;
+* O que é ordem natural.
+* Ordenar e comparar objetos.
+* Utilizar o `attrgette`.
+* Usar o `__lt__`: menor que (less than) para comparações.
+
+### 01 - Ordenação dos Objetos sem Ordem Natural
+* Ordenar objetos através do `key=`.
+
+### 02 - Implementando o `__it__`
+* Implementar o próprio método de ordenação do objeto (`<`) com `__lt__`.

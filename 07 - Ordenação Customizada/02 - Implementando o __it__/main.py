@@ -18,11 +18,10 @@ def __main__():
         print(account)
 
     print()
-    # The "attrgetter()" gets the attribute of the object inside the list, and compares with the same attribute of the
-    # other object with "<"
-    accounts = sorted(accounts, key=attrgetter("_balance"))
 
-    for account in accounts:
+    print(acc1 < acc2)
+
+    for account in sorted(accounts):
         print(account)
 
 
