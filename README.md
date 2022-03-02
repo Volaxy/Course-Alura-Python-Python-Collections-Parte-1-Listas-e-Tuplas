@@ -122,3 +122,11 @@ URL do curso -> [Python Collections Parte 1 - Listas e Tuplas](https://cursos.al
 
 ### 02 - Implementando o `__it__`
 * Implementar o próprio método de ordenação do objeto (`<`) com `__lt__`.
+
+## 08 - Ordenação Total &#x1F516;
+* Utilizar vários atributos com o attrgetter.
+* O que é **total_ordering** e functools.
+
+### 01 - Ordenação Completa e Functools
+* Adicionar um critério de desempate com `attrgetter("_balance", "_codigo")`.
+* Aproveitar as funções de `==` e `<` com a *annotation* `@total_ordering`.
